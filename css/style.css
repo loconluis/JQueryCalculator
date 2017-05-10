@@ -1,3 +1,12 @@
+html, body{
+	height: 100%;
+	margin: 0;
+	background-color: #390707;
+}
+#displayTitles{
+	color: #ffffff;
+	padding: 30px 0;
+}
 #displayCalculator{
 	background-color: #272849;
 	margin-right: 200px;
